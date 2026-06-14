@@ -177,7 +177,7 @@ https://github.com/user-attachments/assets/35d1e119-7943-4a34-b4ef-c7c8963df4f9
 *    Upload real profile images
 *    Authentication (JWT Login System)
 *   Database integration (MongoDB/MySQL)
-*   Deployment (Vercel + Render)
+*   Deployment (Vercel+ Render)
 
 ---
 
